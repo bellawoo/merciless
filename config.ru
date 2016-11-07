@@ -1,4 +1,3 @@
-require 'sinatra'
-require './app'
+require './app.rb'
 
-run MericlessApp
+run MercilessApp
